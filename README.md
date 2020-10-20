@@ -1,9 +1,15 @@
-### Hi there 👋
+![Welcome]<img src="https://media.giphy.com/media/WEUAKfKmeYVp4CrLBt/giphy.gif" width="100%" height="100%" />
+### Welcome to leomatt547 Repository!! 👋
+<ul>
+<li><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /> leo.matt.547@gmail.com </li>
+<li><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> Leo Matt (youtube.com/channel/UCKWct6hZz5TA3UE9G8lWs2g)</li>
+<li><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> @leo_wastupranata</li>
+<li><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> Leonard Matheus (linkedin.com/in/leonardmatheus)</li>
+<li><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" /> leomatt547</li>
+<li><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /> @leo.matt.547 (medium.com/@leo.matt.547)</li>
+</ul>
 
-<!--
-**leomatt547/leomatt547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vision-friendly-dark_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leomatt547&theme=vision-friendly-dark_icons=true) 
 
 Here are some ideas to get you started:
 
@@ -15,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
