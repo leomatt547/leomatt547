@@ -1,7 +1,6 @@
 <img src="https://media.giphy.com/media/We0606kiN2EEnLPNQm/giphy.gif" width="100%" height="100%" />
-### Welcome to leomatt547 Repository!! 👋
 <ul>
-<li><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /> leo.matt.547@gmail.com </li>
+[![Email](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](leo.matt.547@gmail.com) </li>
 <li><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /> Leo Matt (youtube.com/channel/UCKWct6hZz5TA3UE9G8lWs2g)</li>
 <li><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> @leo_wastupranata</li>
 <li><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> Leonard Matheus (linkedin.com/in/leonardmatheus)</li>
