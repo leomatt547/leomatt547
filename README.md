@@ -10,8 +10,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)<br>
  
 🌱 *Currently Learning*: React-Native and Ruby<br>
-🤔 *Looking for help*: I'm looking for help with trying to find my first software engineering job in this current job climate.<br>
-💬 Ask me about: how to mentor students, creating a portfolio site for you, or assistance with an application you are working on. <br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />[Email](christina@christinakopecky.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />[Leonard Matheus](youtube.com/channel/UCKWct6hZz5TA3UE9G8lWs2g)
@@ -21,6 +19,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />[@leo.matt.547](medium.com/@leo.matt.547)
  
 😄 Pronouns: He/Him <br>
-⚡ Fun facts:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  In my previous career I was a flutist and flute teacher. You can hear me play here: [Hypnosis by Ian Clarke](https://www.youtube.com/watch?v=6MiZszJjBIQ)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
+⚡ Achievements:<br>
+Finalist Gemastik XII 2020 - ICT Scientific Writing by Kemendikbud <br>
+First place ITB Online Hackathon 2020<br>
