@@ -3,7 +3,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leomatt547&theme=vision-friendly-dark_icons=true) 
  
-🌱 *Currently Learning*: React-Native and Ruby<br>
+🌱 *Currently Learning*: Machine Learning & Artificial Intelligence<br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />[Email](christina@christinakopecky.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />[Leonard Matheus](youtube.com/channel/UCKWct6hZz5TA3UE9G8lWs2g)
