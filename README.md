@@ -3,12 +3,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leomatt547&theme=vision-friendly-dark_icons=true) 
  
-🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://careerkarma.com/blog/react-components/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Web Fundamentals: JavaScript Scopes and Closure](https://careerkarma.com/blog/javascript-closure/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [CSS Flexbox](https://careerkarma.com/blog/css-flexbox/)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [MongoDB vs PostgreSQL: what to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)<br>
- 
 🌱 *Currently Learning*: React-Native and Ruby<br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />[Email](christina@christinakopecky.com)
