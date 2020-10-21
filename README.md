@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Leonard Matheus. Welcome to my gh page! <br>
 <img src="https://media.giphy.com/media/We0606kiN2EEnLPNQm/giphy.gif" width="100%" height="100%"/>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leomatt547&theme=vision-friendly-dark_icons=true) 
-
-
-Resume:  [Christina Kopecky Resume](https://resume.christinakopecky.com) (PDF download)
  
 🔭 *Currently working on*:  Articles that teach students and developers new-to-them technologies. Here are some examples of what I have been writing on: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [React Components: Class vs. Functional](https://careerkarma.com/blog/react-components/)<br>
@@ -22,24 +20,7 @@ Resume:  [Christina Kopecky Resume](https://resume.christinakopecky.com) (PDF do
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />[leomatt547](github.com/leomatt547)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />[@leo.matt.547](medium.com/@leo.matt.547)
  
-😄 Pronouns: He/Her/Hers <br>
+😄 Pronouns: He/Him <br>
 ⚡ Fun facts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :musical_note:  In my previous career I was a flutist and flute teacher. You can hear me play here: [Hypnosis by Ian Clarke](https://www.youtube.com/watch?v=6MiZszJjBIQ)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :fallen_leaf: My favorite season is fall :smile: <br>
- 
- 
-<!--
-**ckopecky/ckopecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
- 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
