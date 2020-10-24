@@ -2,7 +2,8 @@
 <img src="https://media.giphy.com/media/We0606kiN2EEnLPNQm/giphy.gif" width="100%" height="100%"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leomatt547&theme=vision-friendly-dark_icons=true) 
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomatt547&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 🌱 *Currently Learning*: Machine Learning & Artificial Intelligence<br>
 📫 How to reach me: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />[Email](christina@christinakopecky.com)
@@ -14,5 +15,5 @@
  
 😄 Pronouns: He/Him <br>
 ⚡ Achievements:<br>
-Finalist Gemastik XII 2020 - ICT Scientific Writing by Kemendikbud <br>
-First place ITB Online Hackathon 2020<br>
+1. Finalist Gemastik XIII 2020 - National ICT Scientific Writing by Kemendikbud <br>
+2. First place ITB Online Hackathon 2020<br>
