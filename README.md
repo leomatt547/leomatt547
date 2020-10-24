@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/We0606kiN2EEnLPNQm/giphy.gif" width="100%" height="100%"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leomatt547&theme=vision-friendly-dark_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomatt547&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomatt547&layout=compact)
 
 🌱 *Currently Learning*: Machine Learning & Artificial Intelligence<br>
 📫 How to reach me: <br>
