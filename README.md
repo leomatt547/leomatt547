@@ -17,3 +17,4 @@
 ⚡ Achievements:<br>
 1. Finalist Gemastik XIII 2020 - National ICT Scientific Writing by Kemendikbud <br>
 2. First place ITB Online Hackathon 2020<br>
+3. Co-Author of The 2020 International Seminar on Aerospace Science and Technology by LAPAN <br>
