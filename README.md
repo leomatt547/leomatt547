@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Leonard Matheus. Welcome to my gh page! <br>
-<img src="https://media.giphy.com/media/We0606kiN2EEnLPNQm/giphy.gif" width="100%" height="100%"/>
+![Leo Matt](https://raw.githubusercontent.com/leomatt547/leomatt547/main/leomatt.gif)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leomatt547&theme=vision-friendly-dark_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomatt547&layout=compact)
