@@ -6,13 +6,18 @@
 
 🌱 *Currently Learning*: Machine Learning & Artificial Intelligence<br>
 📫 How to reach me: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />[Email](christina@christinakopecky.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />[Leonard Matheus](https://youtube.com/channel/UCKWct6hZz5TA3UE9G8lWs2g)
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />[Email](christina@christinakopecky.com)
+<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />[Leonard Matheus](https://youtube.com/channel/UCKWct6hZz5TA3UE9G8lWs2g)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />[@leo_wastupranata](https://www.instagram.com/leo_wastupranata/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />[Leonard Matheus](https://www.linkedin.com/in/leonardmatheus)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" />[leomatt547](https://github.com/leomatt547)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />[@leo.matt.547](https://medium.com/@leo.matt.547)
- 
+
+<ul>
+<li>
+[<img alt="Email" width="40px" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](leo.matt.547@gmail.com)
+</li>
+</ul>
 😄 Pronouns: He/Him <br>
 ⚡ Achievements:<br>
 1. Finalist Gemastik XIII 2020 - National ICT Scientific Writing by Kemendikbud <br>
