@@ -4,7 +4,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leomatt547&theme=vision-friendly-dark_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomatt547&layout=compact)
 
-🌱 *Currently Learning*: Machine Learning & Artificial Intelligence<br>
+🌱 *Currently Learning*: Deep Learning & Convolutional Neural Network<br>
 😄 Pronouns: He/Him <br>
 ⚡ Achievements:<br>
 1. Finalist Gemastik XIII 2020 - National ICT Scientific Writing by Kemendikbud <br>
