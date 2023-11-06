@@ -11,7 +11,9 @@
 2. First place ITB Online Hackathon 2020<br>
 3. Co-Author of The 2020 International Seminar on Aerospace Science and Technology by LAPAN <br>
 4. Author of 2021 IEEE International Conference on Aerospace Electronics and Remote Sensing Technology (ICARES) <br>
-5. Reviewer of IEEE/CIC International Conference on Communications 2023 <br>
+5. Author of Journal of Applied Remote Sensing (JARS) - IF: 1.7 <br>
+6. Reviewer of Journal of Electronic Imaging (JEI) - IF: 1.1 <br>
+7. Reviewer of IEEE/CIC International Conference on Communications 2023 <br>
 
 📫 How to reach me: <br>
 [<img alt="Email" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />](leo.matt.547@gmail.com)
